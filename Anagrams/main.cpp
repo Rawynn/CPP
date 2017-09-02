@@ -1,3 +1,6 @@
+////Checks if pair is an anagram, if it isn't it prints how many letters has to be changed to make it an anagram also when pairs are different size it prints -1.
+
+
 //#include <bits/stdc++.h>
 #include<iostream>
 #include<vector>
